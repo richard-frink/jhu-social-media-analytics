@@ -1,0 +1,91 @@
+Selena Gomez,celebrities,musicians
+Taylor Swift,celebrities,musicians
+Ariana Grande,celebrities,musicians
+Beyonce,celebrities,musicians
+Kim Kardashian West,celebrities,tv
+Cristiano Ronaldo,celebrities,athletes
+Kylie,celebrities,models
+Justin Bieber,celebrities,musicians
+therock,celebrities,athletes
+Kendall,celebrities,models
+Nicki Minaj,celebrities,musicians
+nike,fashion,sport
+Nj,celebrities,athletes
+Leo Messi,celebrities,athletes
+Khloe,celebrities,tv
+KATY PERRY,celebrities,musicians
+Miley Cyrus,celebrities,musicians
+Jennifer Lopez,celebrities,musicians
+Demi Lovato,celebrities,musicians
+Kourtney Kardashian,celebrities,tv
+badgalriri,celebrities,musicians
+Kevin Hart,celebrities,actors
+FC Barcelona,sport,football
+Real Madrid C.F.,sport,football
+Justin Timberlake,celebrities,musicians
+Ellen,celebrities,tv
+Cara Delevingne,celebrities,models
+Zendaya,celebrities,musicians
+David Beckham,celebrities,athletes
+champagnepapi,celebrities,musicians
+Vin Diesel,celebrities,actors
+Shakira,celebrities,musicians
+James Rodr�guez,celebrities,athletes
+Gigi Hadid,celebrities,models
+LeBron James,celebrities,athletes
+Gareth Bale,celebrities,athletes
+Nike Football (Soccer),fashion,sport
+Zac Efron,celebrities,actors
+Vanessa Hudgens,celebrities,actors
+IAmZlatan,celebrities,athletes
+Emma Watson,celebrities,actors
+xoxo - Joanne,celebrities,musicians
+NBA,sport,basketball
+harrystyles,celebrities,musicians
+Scott Disick,celebrities,tv
+Luis Suarez,celebrities,athletes
+Niall Horan,celebrities,musicians
+H&M,fashion,retail
+Bruna Marquezine _,celebrities,models
+One Direction,celebrities,musicians
+CHANEL,fashion,luxury
+Shawn Mendes,celebrities,musicians
+Lucy Hale,celebrities,actors
+euanitta,celebrities,musicians
+Karim Benzema,celebrities,athletes
+Marina Ruy Barbosa,celebrities,actors
+adidas Originals,fashion,sport
+David Luiz,celebrities,athletes
+Andres Iniesta,celebrities,athletes
+Ashley Benson,celebrities,actors
+ZARA Official,fashion,retail
+Manchester United,sport,football
+Shay Mitchell,celebrities,actors
+Marcelo Vieira Jr.,celebrities,athletes
+BELLA,celebrities,media
+Ciara,celebrities,musicians
+Britney Spears,celebrities,musicians
+Louis Vuitton Official,fashion,luxury
+snoopdogg,celebrities,musicians
+Floyd Mayweather,celebrities,athletes
+Sergio Ramos,celebrities,athletes
+Tata Werneck,celebrities,tv
+Daddy Yankee,celebrities,musicians
+Victoria Beckham,celebrities,entrepreneurs
+Dior Official,fashion,luxury
+MAC Cosmetics,beauty,retail
+Channing Tatum,celebrities,actors
+Robert Downey Jr.,celebrities,tv
+elliegoulding,celebrities,musicians
+50 Cent,celebrities,musicians
+Luan Santana,celebrities,musicians
+Chloe Grace Moretz,celebrities,actors
+adidas,fashion,sport
+Gucci,fashion,luxury
+Louis Tomlinson,celebrities,musicians
+G-DRAGON,celebrities,fashion
+DanialvesD2 My Twitter,celebrities,athletes
+Dolce & Gabbana,fashion,luxury
+Tyga / T-Raww,celebrities,musicians
+Paul Labile Pogba,celebrities,athletes
+Barack Obama,celebrities,political

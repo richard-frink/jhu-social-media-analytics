@@ -1,0 +1,10 @@
+Selena Gomez,celebrities,musicians
+Taylor Swift,celebrities,musicians
+Ariana Grande,celebrities,musicians
+Beyonce,celebrities,musicians
+Kim Kardashian West,celebrities,tv
+Cristiano Ronaldo,celebrities,athletes
+Kylie,celebrities,models
+Justin Bieber,celebrities,musicians
+therock,celebrities,athletes
+Kendall,celebrities,models
